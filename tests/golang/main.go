@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Danny-Dasilva/CycleTLS/cycletls"
+	"github.com/Computr1x/CycleTLS/cycletls"
 	"log"
 	"runtime"
 	"time"

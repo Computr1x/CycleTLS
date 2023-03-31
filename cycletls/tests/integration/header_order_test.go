@@ -11,7 +11,7 @@ import (
 	"strings"
 	"testing"
 
-	cycletls "github.com/Danny-Dasilva/CycleTLS/cycletls"
+	cycletls "github.com/Computr1x/CycleTLS/cycletls"
 )
 
 type HttpBinHeaders struct {
