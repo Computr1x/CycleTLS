@@ -7,3 +7,4 @@ go.mod
 go.sum
 tests/images/output*
 tests/images/source*
+.idea
